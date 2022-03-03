@@ -1,7 +1,7 @@
 ## Entrainment experiment
 Rotate phone ⟲
 
-  <img src="https://github.com/victoria-sofy/entrainment/blob/main/SO_2.0D_130mins_DAPT_rotated.gif?raw=true" height="500" align="center">
+  <img src="https://github.com/victoria-sofy/entrainment/blob/main/SO_2.0D_130mins_DAPT_rotated.gif?raw=true" height="600" align="center">
 
 Description: E10.5 spreadout, expressing LuVeLu, subjected to 130-min periodic pulses of 2 uM DAPT, with corresponding period and phase wavelet movies
 
